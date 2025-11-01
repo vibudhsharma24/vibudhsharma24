@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate software developer who loves building **scalable applications** and **AI-driven solutions** that solve real-world problems.  
+Software developer who loves building **scalable applications** and **AI-driven solutions** that solve real-world problems.  
 With hands-on experience across **Full Stack Development, Machine Learning, and Cloud Architecture**, I’m always experimenting, learning, and creating projects that merge innovation with impact.  
 
 ---
