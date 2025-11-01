@@ -12,7 +12,7 @@ With hands-on experience across **Full Stack Development, Machine Learning, and 
 
 ---
 
-## 🧠 Tech Stack  
+
 
 ## 🧠 Tech Stack  
 
