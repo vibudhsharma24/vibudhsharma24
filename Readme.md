@@ -14,14 +14,34 @@ With hands-on experience across **Full Stack Development, Machine Learning, and 
 
 ## 🧠 Tech Stack  
 
-**Languages:**  
-`Python` | `C++` | `Java` | `SQL` | `HTML` | `CSS`  
+## 🧠 Tech Stack  
 
-**Frameworks & Libraries:**  
-`Django` | `MERN Stack` | `Transformers` | `LangChain`  
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Platforms:**  
-`Linux` | `Git / GitHub` | `VS Code` | `Jupyter Notebook` | `AWS`  
+---
+
+### ⚙️ Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-F9AB00?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+
+---
+
+### 🧰 Tools & Platforms  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 **Certifications:**  
 🏅 [AWS Certified Cloud Practitioner (2024–2027)](https://cp.certmetrics.com/amazon/en/public/verify/credential/2243de347362479d92a84495f6520741)  
