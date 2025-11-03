@@ -76,7 +76,7 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 ---
 
 
-## 🎯 Hobbies & Passion  
+## 🎯 Hobbies   
 
 🏃‍♂️ **Hobbies:** Running and working out — I enjoy staying active and challenging myself both physically and mentally.  
 💡 **Passion:** Coding — I love transforming ideas into impactful software and continuously exploring new technologies to innovate and create.  
