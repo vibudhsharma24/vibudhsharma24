@@ -117,6 +117,7 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 
 
 ---
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -124,3 +125,4 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+</div>
