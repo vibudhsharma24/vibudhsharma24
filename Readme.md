@@ -97,7 +97,7 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vibudhsharma24&show_icons=true&theme=synthwave&hide_border=true&count_private=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=vibudhsharma24&theme=synthwave&hide_border=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Streak" width="49%" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=vibudhsharma24&theme=synthwave&hide_border=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Streak" width="49%" /> -->
 </p>
 
 ---
