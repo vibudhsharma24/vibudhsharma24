@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vibudhsharma24&show_icons=true&theme=synthwave&hide_border=true&count_private=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=vibudhsharma24&theme=synthwave&hide_border=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vibudhsharma24&theme=synthwave&hide_border=true&cache_seconds=86400"  width="49%" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vibudhsharma24&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vibudh Sharma's GitHub Trophies" />
