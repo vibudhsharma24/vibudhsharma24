@@ -113,7 +113,8 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 
 ---
 
-⭐ *“Code with purpose. Build with passion.”*  
+<h1 align="center">⭐ “Code with purpose. Build with passion.” ⭐</h1>
+
 
 ---
 
