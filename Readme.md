@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Vibudh Sharma  
 
+
+
 🎓 **B.Tech | Computer Science and Engineering | VIT, Chennai**  
 💻 **Full Stack Developer | AI & Blockchain Enthusiast | AWS Certified**  
 📍 Based in Delhi, India  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ---
 
@@ -11,6 +17,13 @@ Software developer who loves building **scalable applications** and **AI-driven 
 With hands-on experience across **Full Stack Development, Machine Learning, and Cloud Architecture**, I’m always experimenting, learning, and creating projects that merge innovation with impact.  
 
 ---
+
+## 🧠 My Focus Areas
+- Web Development
+- AI / ML
+- Blockchain
+- Data analysis
+- AWS
 
 ## 🧠 Tech Stack  
 
@@ -83,7 +96,8 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibudhsharma24&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vibudhsharma24&show_icons=true&theme=synthwave&hide_border=true&count_private=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vibudhsharma24&theme=synthwave&hide_border=true&cache_seconds=86400" alt="vibudhsharma24's GitHub Streak" width="49%" />
 </p>
 
 ---
@@ -100,3 +114,12 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 ---
 
 ⭐ *“Code with purpose. Build with passion.”*  
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
